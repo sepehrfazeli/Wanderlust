@@ -5,7 +5,7 @@
   main {
     margin: 0px auto 50px auto;
     text-align: center;
-    background-image: url('https://content.codecademy.com/courses/intermediate-javascript-requests/wanderlust/background_photo_desktop.jpg');
+    background-image: url('../image/travel.webp');
     background-size: cover;
     text-align: center;
   }
@@ -165,7 +165,8 @@
   
   @media (max-width: 860px) {
     main {
-      background-image: url('https://content.codecademy.com/courses/intermediate-javascript-requests/wanderlust/background_photo_moble.jpg');
+      background-image: url('../image/travel.webp');
+      backdrop-filter: blur(1rem);
     }
   
     h1 {
