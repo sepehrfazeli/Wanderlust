@@ -21,6 +21,10 @@
     margin: auto;
   }
   
+  h2 {
+    line-height: 5rem;
+  }
+  
   h3 {
     font-family: Work Sans;
     font-weight: 500;
@@ -106,6 +110,7 @@
     letter-spacing: 0.9px;
     text-align: left;
     color: #27b7c1;
+    line-height: 10rem;
   }
   
   .sectiontitle {
